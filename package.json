@@ -1,0 +1,15 @@
+{
+  "name": "google-vision-api-client",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "github": "https://github.com/z4h1/visiontest.git",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-api-utility": "0.0.12"
+  }
+}
